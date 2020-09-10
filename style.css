@@ -176,6 +176,9 @@ header nav i {
 .light{
     color: silver;
 }
+.details{
+    margin-left: 200px;
+}
 .video-details{
     display: flex;
     flex-direction: column;
